@@ -1,0 +1,15 @@
+.checkbox-container {
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.checkbox {
+
+    padding-top: 20vh;
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
